@@ -354,11 +354,4 @@ YOUR_SERVER_IP
 ```
 
 ---
-
-# 👨‍💻 Author
-
-**Amit Pachpute**
-
-**Data Engineer | L1 Cyber Analyst | Application Support Intern**
-
-Mumbai, India
+**Created By Amit Pachpute**
